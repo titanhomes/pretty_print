@@ -1,13 +1,14 @@
 {
   "manifest_version": 2,
   "name": "Titan Pretty Print",
-  "version": "0.2",
+  "version": "0.3",
   "browser_action": {
     "default_icon": "pretty_print.png"
   },
   "permissions": [
     "tabs",
-    "https://*/*"
+    "https://*/*",
+    "http://*/*"
   ],
   "background": {
     "scripts": ["background.js"],

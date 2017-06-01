@@ -2,7 +2,7 @@ tr td:nth-child(3) { display: none !important; }
 tr.SmallText td:nth-child(2) { display: none !important; }
 td.SelectionFileContainer {display: none !important; }
 table.SelectionFileSectionContainer {display: none !important; }
-tr.notChosen {display: none !important;}
+tr.notChosen, span.notChosen {display: none !important;}
 .CommentsContainer { display: none !important; }
 .InfoSection { display: none !important }
 .ContentSel { display: none !important }

@@ -5,3 +5,4 @@ table.SelectionFileSectionContainer {display: none !important; }
 tr.notChosen {display: none !important;}
 .CommentsContainer { display: none !important; }
 .InfoSection { display: none !important }
+.ContentSel { display: none !important }
